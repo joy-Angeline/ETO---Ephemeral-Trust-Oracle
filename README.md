@@ -6,6 +6,8 @@ A working MVP for a cross-border identity bridge that lets someone prove a claim
 (e.g. "I hold an EU ID, I'm over 18") to a verifier abroad (e.g. a hotel in Japan)
 **without revealing their identity**, and **without leaving a reusable, trackable proof behind**.
 
+![ETO Protocol Flow](docs/protocol-flow.svg)
+
 ## The idea
 
 Digital identity is balkanized — the EU's eIDAS wallet, Japan's My Number Card, and
