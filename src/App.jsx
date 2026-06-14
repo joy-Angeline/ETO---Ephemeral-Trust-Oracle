@@ -1,6 +1,6 @@
 import { useState, useRef } from "react";
 
-const API = "http://localhost:4000/api";
+const API = "https://eto-ephemeral-trust-oracle.onrender.com";
 
 const MOCK_CREDENTIAL = {
   issuer: "EU-eIDAS-2.0",
